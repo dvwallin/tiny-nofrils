@@ -6,5 +6,5 @@ Add `Plug 'dvwallin/tiny-nofrils'` to your .vimrc and run `:PlugInstall`
 then add `:colo tiny-nofrils` to your .vimrc and restart vim or refresh.
 
 
-![Tiny-NoFrils](http://i.imgur.com/1lUx2hY.png)
+![Tiny-NoFrils](https://raw.githubusercontent.com/dvwallin/tiny-nofrils/master/scrsh/tiny-nofrils.png)
 
